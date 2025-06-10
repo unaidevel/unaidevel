@@ -3,8 +3,8 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I’m a self-taught Backend Developer with experience building projects using Python, Django, and FastAPI. \
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+👨‍💻  I’m a self-taught Backend Developer with experience building projects using Python, Django, and FastAPI. \
+💡  I like to explore new technologies and develop software solutions and quick hacks.\
 🔧  I’ve worked on projects involving REST APIs, authentication systems, PostgreSQL databases, and deployment.  
 💬  Open to backend roles, freelance gigs, or interesting collaborations.  
 🌍  I value continuous improvement, clear documentation, and teamwork.  
