@@ -3,14 +3,18 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
+👨‍💻 &nbsp;I’m a self-taught Backend Developer with experience building projects using Python, Django, and FastAPI. \
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+🔧  I’ve worked on projects involving REST APIs, authentication systems, PostgreSQL databases, and deployment.  
+💬  Open to backend roles, freelance gigs, or interesting collaborations.  
+🌍  I value continuous improvement, clear documentation, and teamwork.  
+📚  Always exploring best practices and writing efficient code, especially in Python-based ecosystems.  
+💡  I enjoy designing scalable backend systems and crafting clean, maintainable code.  
+
+
+
+✉️  You can reach me at [unai.devel@gmail.com].  
+📄 &nbsp;Feel free to check my portfolio <a target="_blank" href="https://unaimunoz.dev"> website<a/>!
 
 
 
@@ -29,3 +33,15 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
+<p>Connect with me on        
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/unaidev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:unai.devel@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<!-- <a target="_blank" href="https://unaimunoz.dev"><img src="https://badgen.net/badge/color/Portfolio/black?label="></img></a>
+
+ -->
+<br>
+</p>
